@@ -1,7 +1,7 @@
 # 👨‍💻Amazon_Web_Scrapping_Project
 
 ## 🤔Problem Statement
-### We have to fetch html from amazon webpage  then clean it and store some important columns and convert into csv file which will further used by Data Sciencetist  team and data analytics team for some business driven solution
+### We have to fetch html from amazon webpage  then clean it and store some important columns and convert into csv file which will further used by Data Scientist  team and data analytics team for some business driven solution
 
 ## 💻Tech Stack Used
 1. Python
